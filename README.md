@@ -48,7 +48,8 @@
 - Windows: `C:/Users/<USERNAME>/AppData/Roaming/SpeedCrunch/color-schemes`
 - Linux/Unix: `~/.local/SpeedCrunch/color-schemes`
 - OS X: `~/Library/Application Support/SpeedCrunch/color-schemes`
-- When using a portable version of SpeedCrunch on any operating system, additional color schemes are loaded from the `color-schemes` subdirectory in the portable application directory.
+
+> **_NOTE:_** When using a portable version of SpeedCrunch on any operating system, additional color schemes are loaded from the `color-schemes` subdirectory in the portable application directory.
 
 3. Restart SpeedCrunch and select the theme in Settings -> Display -> Color Scheme.
 
