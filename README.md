@@ -11,7 +11,9 @@
 	<a href="https://github.com/catppuccin/speedcrunch/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/speedcrunch?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-![SpeedCrunch Theme Preview](assets/preview.webp)
+<p align="center">
+  <img src="assets/preview.webp"/>
+</p>
 
 ## Previews
 
