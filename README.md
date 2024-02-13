@@ -36,22 +36,17 @@
 
 ## Usage
 
-1. Download your preferred flavor:
-
-- 🌻 [Latte](./themes/Latte.json?raw=1)
-- 🪴 [Frappe](./themes/Frappe.json?raw=1)
-- 🌺 [Macchiato](./themes/Macchiato.json?raw=1)
-- 🌿 [Mocha](./themes/Mocha.json?raw=1)
+1. Download your preferred flavor from the [themes](themes) directory.
 
 2. Copy the downloaded file to your `color-schemes` folder:
 
-- Windows: `C:/Users/<USERNAME>/AppData/Roaming/SpeedCrunch/color-schemes`
-- Linux/Unix: `~/.local/SpeedCrunch/color-schemes`
-- OS X: `~/Library/Application Support/SpeedCrunch/color-schemes`
+	- **Windows**: `C:/Users/<USERNAME>/AppData/Roaming/SpeedCrunch/color-schemes`
+	- **Linux/Unix**: `~/.local/SpeedCrunch/color-schemes`
+	- **macOS**: `~/Library/Application Support/SpeedCrunch/color-schemes`
 
 > **_NOTE:_** When using a portable version of SpeedCrunch on any operating system, additional color schemes are loaded from the `color-schemes` subdirectory in the portable application directory.
 
-3. Restart SpeedCrunch and select the theme in Settings -> Display -> Color Scheme.
+3. Restart SpeedCrunch and select the theme in `Settings` -> `Display` -> `Color Scheme`.
 
 ## Ref:
 https://heldercorreia.bitbucket.io/speedcrunch/advanced/colorschemeformat.html
