@@ -41,7 +41,7 @@
 2. Copy the downloaded file to your `color-schemes` folder:
 
 	- **Windows**: `C:/Users/<USERNAME>/AppData/Roaming/SpeedCrunch/color-schemes`
-	- **Linux/Unix**: `~/.local/SpeedCrunch/color-schemes`
+	- **Linux/Unix**: `~/.local/SpeedCrunch/color-schemes` (may be `~/.local/share/SpeedCrunch/color-schemes` instead)
 	- **macOS**: `~/Library/Application Support/SpeedCrunch/color-schemes`
 
 > **_NOTE:_** When using a portable version of SpeedCrunch on any operating system, additional color schemes are loaded from the `color-schemes` subdirectory in the portable application directory.
